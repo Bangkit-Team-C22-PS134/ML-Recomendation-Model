@@ -1,0 +1,102 @@
+USER_ID,Gender,Age,Tipe_Masalah,CAREGIVER_ID,Caregiver_gender,Caregiver_Age,Caregiver_Tipe_Masalah
+100,Perempuan,34,Skizofrenia Gangguan-makan,8,Pria,28,Gangguan-makan Gangguan-stres-pascatrauma Skizofrenia
+99,Pria,21,Depresi Gangguan-makan,27,Pria,31,Gangguan-makan Depresi ADHD-Hiperaktif-dan-kurang-fokus
+98,Perempuan,31,Depresi Gangguan-makan,27,Pria,31,Gangguan-makan Depresi ADHD-Hiperaktif-dan-kurang-fokus
+97,Perempuan,21,Skizofrenia Depresi,26,Perempuan,24,Depresi Skizofrenia Gangguan-stres-pascatrauma
+96,Perempuan,36,ADHD-Hiperaktif-dan-kurang-fokus Gangguan-kecemasan,17,Perempuan,20,ADHD-Hiperaktif-dan-kurang-fokus
+95,Perempuan,34,Gangguan-stres-pascatrauma,22,Pria,29,Gangguan-stres-pascatrauma Gangguan-makan Depresi
+94,Perempuan,31,ADHD-Hiperaktif-dan-kurang-fokus Gangguan-kecemasan,17,Perempuan,20,ADHD-Hiperaktif-dan-kurang-fokus
+93,Pria,27,Skizofrenia Depresi ADHD-Hiperaktif-dan-kurang-fokus,30,Perempuan,32,ADHD-Hiperaktif-dan-kurang-fokus
+92,Perempuan,27,Gangguan-stres-pascatrauma Depresi,10,Pria,27,Gangguan-stres-pascatrauma
+91,Pria,35,Depresi,20,Perempuan,30,Depresi Gangguan-makan
+90,Pria,26,Depresi Skizofrenia,26,Perempuan,24,Depresi Skizofrenia Gangguan-stres-pascatrauma
+89,Perempuan,23,ADHD-Hiperaktif-dan-kurang-fokus Gangguan-makan,15,Pria,38,Gangguan-makan ADHD-Hiperaktif-dan-kurang-fokus
+88,Pria,22,ADHD-Hiperaktif-dan-kurang-fokus Gangguan-stres-pascatrauma,11,Perempuan,28,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus
+87,Pria,27,Gangguan-makan Depresi,20,Perempuan,30,Depresi Gangguan-makan
+86,Perempuan,30,Gangguan-makan Depresi,20,Perempuan,30,Depresi Gangguan-makan
+85,Pria,43,Depresi Skizofrenia,2,Pria,33,Skizofrenia Depresi
+84,Perempuan,39,Skizofrenia,2,Pria,33,Skizofrenia Depresi
+83,Perempuan,31,Gangguan-kecemasan,24,Pria,39,Gangguan-stres-pascatrauma Depresi Gangguan-kecemasan
+82,Perempuan,39,Depresi Skizofrenia,26,Perempuan,24,Depresi Skizofrenia Gangguan-stres-pascatrauma
+81,Perempuan,23,ADHD-Hiperaktif-dan-kurang-fokus Skizofrenia Gangguan-stres-pascatrauma,30,Perempuan,32,ADHD-Hiperaktif-dan-kurang-fokus
+80,Pria,22,Depresi Gangguan-kecemasan ADHD-Hiperaktif-dan-kurang-fokus,30,Perempuan,32,ADHD-Hiperaktif-dan-kurang-fokus
+79,Perempuan,38,Gangguan-stres-pascatrauma Depresi,22,Pria,29,Gangguan-stres-pascatrauma Gangguan-makan Depresi
+78,Perempuan,28,Depresi,26,Perempuan,24,Depresi Skizofrenia Gangguan-stres-pascatrauma
+77,Pria,20,Gangguan-kecemasan Depresi Gangguan-stres-pascatrauma,23,Pria,36,Depresi Gangguan-kecemasan
+76,Pria,44,Depresi Gangguan-kecemasan,23,Pria,36,Depresi Gangguan-kecemasan
+75,Perempuan,28,Gangguan-stres-pascatrauma,10,Pria,27,Gangguan-stres-pascatrauma
+74,Pria,25,Gangguan-kecemasan Depresi,23,Pria,36,Depresi Gangguan-kecemasan
+73,Perempuan,44,Gangguan-kecemasan ADHD-Hiperaktif-dan-kurang-fokus,29,Perempuan,28,ADHD-Hiperaktif-dan-kurang-fokus
+72,Pria,45,ADHD-Hiperaktif-dan-kurang-fokus,17,Perempuan,20,ADHD-Hiperaktif-dan-kurang-fokus
+71,Perempuan,45,Skizofrenia Depresi,2,Pria,33,Skizofrenia Depresi
+70,Pria,36,Gangguan-stres-pascatrauma Gangguan-makan Depresi,22,Pria,29,Gangguan-stres-pascatrauma Gangguan-makan Depresi
+69,Pria,22,Gangguan-kecemasan Gangguan-stres-pascatrauma,9,Pria,27,Gangguan-stres-pascatrauma
+68,Perempuan,32,ADHD-Hiperaktif-dan-kurang-fokus,29,Perempuan,28,ADHD-Hiperaktif-dan-kurang-fokus
+67,Perempuan,21,Gangguan-stres-pascatrauma Depresi Gangguan-makan,1,Perempuan,28,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus Gangguan-makan
+66,Perempuan,39,Gangguan-stres-pascatrauma Gangguan-kecemasan,9,Pria,27,Gangguan-stres-pascatrauma
+65,Perempuan,43,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus,29,Perempuan,28,ADHD-Hiperaktif-dan-kurang-fokus
+64,Pria,30,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus,11,Perempuan,28,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus
+63,Pria,41,ADHD-Hiperaktif-dan-kurang-fokus,3,Pria,19,ADHD-Hiperaktif-dan-kurang-fokus
+62,Pria,31,Gangguan-kecemasan Gangguan-makan,21,Perempuan,39,Gangguan-makan Gangguan-kecemasan
+61,Pria,20,Skizofrenia Gangguan-makan,4,Perempuan,18,Gangguan-makan Skizofrenia
+60,Pria,28,Gangguan-kecemasan,19,Pria,39,Gangguan-makan Gangguan-kecemasan 
+59,Pria,45,Gangguan-makan,19,Pria,39,Gangguan-makan Gangguan-kecemasan 
+58,Pria,30,ADHD-Hiperaktif-dan-kurang-fokus Gangguan-kecemasan Depresi,23,Pria,36,Depresi Gangguan-kecemasan
+57,Perempuan,43,Skizofrenia Gangguan-stres-pascatrauma,7,Pria,24,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus Gangguan-stres-pascatrauma
+56,Pria,34,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus,7,Pria,24,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus Gangguan-stres-pascatrauma
+55,Perempuan,33,Skizofrenia,8,Pria,28,Gangguan-makan Gangguan-stres-pascatrauma Skizofrenia
+54,Pria,28,Skizofrenia,8,Pria,28,Gangguan-makan Gangguan-stres-pascatrauma Skizofrenia
+53,Perempuan,24,Depresi Gangguan-makan,25,Perempuan,36,Gangguan-makan Depresi
+52,Perempuan,30,ADHD-Hiperaktif-dan-kurang-fokus Gangguan-stres-pascatrauma,11,Perempuan,28,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus
+51,Pria,19,Depresi,27,Pria,31,Gangguan-makan Depresi ADHD-Hiperaktif-dan-kurang-fokus
+50,Perempuan,44,Depresi Gangguan-kecemasan Gangguan-makan,20,Perempuan,30,Depresi Gangguan-makan
+49,Perempuan,31,Depresi Skizofrenia,2,Pria,33,Skizofrenia Depresi
+48,Perempuan,20,Gangguan-makan Depresi,25,Perempuan,36,Gangguan-makan Depresi
+47,Pria,36,ADHD-Hiperaktif-dan-kurang-fokus Gangguan-stres-pascatrauma,1,Perempuan,28,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus Gangguan-makan
+46,Pria,37,Skizofrenia,28,Pria,22,Skizofrenia
+45,Pria,27,Depresi Gangguan-stres-pascatrauma,22,Pria,29,Gangguan-stres-pascatrauma Gangguan-makan Depresi
+44,Pria,35,Depresi Gangguan-stres-pascatrauma,16,Perempuan,31,Gangguan-makan Gangguan-stres-pascatrauma Depresi
+43,Perempuan,40,Gangguan-kecemasan Gangguan-stres-pascatrauma,9,Pria,27,Gangguan-stres-pascatrauma
+42,Pria,21,ADHD-Hiperaktif-dan-kurang-fokus Depresi Gangguan-stres-pascatrauma,18,Pria,25,ADHD-Hiperaktif-dan-kurang-fokus Depresi Gangguan-kecemasan
+41,Perempuan,40,Gangguan-makan Depresi,25,Perempuan,36,Gangguan-makan Depresi
+40,Pria,44,Skizofrenia,28,Pria,22,Skizofrenia
+39,Pria,43,Gangguan-kecemasan Gangguan-makan,21,Perempuan,39,Gangguan-makan Gangguan-kecemasan
+38,Perempuan,26,Gangguan-stres-pascatrauma Gangguan-makan,16,Perempuan,31,Gangguan-makan Gangguan-stres-pascatrauma Depresi
+37,Perempuan,40,Depresi Gangguan-kecemasan Gangguan-stres-pascatrauma,24,Pria,39,Gangguan-stres-pascatrauma Depresi Gangguan-kecemasan
+36,Perempuan,23,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus,14,Perempuan,22,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus
+34,Pria,42,Gangguan-kecemasan Skizofrenia,5,Perempuan,36,Skizofrenia Gangguan-kecemasan
+33,Pria,42,Depresi,16,Perempuan,31,Gangguan-makan Gangguan-stres-pascatrauma Depresi
+32,Pria,42,Depresi,18,Pria,25,ADHD-Hiperaktif-dan-kurang-fokus Depresi Gangguan-kecemasan
+31,Perempuan,43,Gangguan-stres-pascatrauma,10,Pria,27,Gangguan-stres-pascatrauma
+30,Perempuan,35,Gangguan-makan Gangguan-stres-pascatrauma,13,Perempuan,33,Gangguan-stres-pascatrauma Gangguan-makan
+29,Perempuan,33,ADHD-Hiperaktif-dan-kurang-fokus Gangguan-kecemasan,6,Pria,35,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus Gangguan-kecemasan
+28,Perempuan,23,Gangguan-kecemasan,5,Perempuan,36,Skizofrenia Gangguan-kecemasan
+27,Perempuan,34,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus,14,Perempuan,22,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus
+26,Pria,37,Gangguan-stres-pascatrauma Gangguan-makan,13,Perempuan,33,Gangguan-stres-pascatrauma Gangguan-makan
+25,Pria,39,Skizofrenia Gangguan-makan,4,Perempuan,18,Gangguan-makan Skizofrenia
+24,Pria,28,Gangguan-makan Gangguan-kecemasan,21,Perempuan,39,Gangguan-makan Gangguan-kecemasan
+23,Pria,29,Depresi ADHD-Hiperaktif-dan-kurang-fokus Gangguan-stres-pascatrauma,1,Perempuan,28,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus Gangguan-makan
+22,Perempuan,31,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus Gangguan-stres-pascatrauma,7,Pria,24,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus Gangguan-stres-pascatrauma
+21,Perempuan,31,Depresi Gangguan-stres-pascatrauma,24,Pria,39,Gangguan-stres-pascatrauma Depresi Gangguan-kecemasan
+20,Pria,44,ADHD-Hiperaktif-dan-kurang-fokus,3,Pria,19,ADHD-Hiperaktif-dan-kurang-fokus
+19,Perempuan,27,Skizofrenia Gangguan-kecemasan,5,Perempuan,36,Skizofrenia Gangguan-kecemasan
+18,Pria,23,ADHD-Hiperaktif-dan-kurang-fokus Depresi Gangguan-kecemasan,18,Pria,25,ADHD-Hiperaktif-dan-kurang-fokus Depresi Gangguan-kecemasan
+17,Pria,39,Gangguan-kecemasan ADHD-Hiperaktif-dan-kurang-fokus,6,Pria,35,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus Gangguan-kecemasan
+16,Pria,40,Gangguan-kecemasan,5,Perempuan,36,Skizofrenia Gangguan-kecemasan
+15,Pria,28,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus,14,Perempuan,22,Skizofrenia ADHD-Hiperaktif-dan-kurang-fokus
+14,Pria,39,Skizofrenia,12,Perempuan,19,Skizofrenia
+13,Perempuan,37,Gangguan-kecemasan,5,Perempuan,36,Skizofrenia Gangguan-kecemasan
+12,Pria,44,Gangguan-makan ADHD-Hiperaktif-dan-kurang-fokus,15,Pria,38,Gangguan-makan ADHD-Hiperaktif-dan-kurang-fokus
+11,Pria,34,Gangguan-makan,19,Pria,39,Gangguan-makan Gangguan-kecemasan 
+10,Pria,27,Skizofrenia Gangguan-makan,4,Perempuan,18,Gangguan-makan Skizofrenia
+9,Pria,35,Depresi Gangguan-stres-pascatrauma,24,Pria,39,Gangguan-stres-pascatrauma Depresi Gangguan-kecemasan
+8,Pria,31,Gangguan-makan ADHD-Hiperaktif-dan-kurang-fokus Skizofrenia,27,Pria,31,Gangguan-makan Depresi ADHD-Hiperaktif-dan-kurang-fokus
+7,Pria,38,Gangguan-makan ADHD-Hiperaktif-dan-kurang-fokus,15,Pria,38,Gangguan-makan ADHD-Hiperaktif-dan-kurang-fokus
+6,Perempuan,18,Depresi ADHD-Hiperaktif-dan-kurang-fokus,18,Pria,25,ADHD-Hiperaktif-dan-kurang-fokus Depresi Gangguan-kecemasan
+5,Pria,21,Skizofrenia,12,Perempuan,19,Skizofrenia
+5,Pria,25,Gangguan-stres-pascatrauma Gangguan-makan,16,Perempuan,31,Gangguan-makan Gangguan-stres-pascatrauma Depresi
+4,Perempuan,44,Skizofrenia,12,Perempuan,19,Skizofrenia
+3,Perempuan,32,ADHD-Hiperaktif-dan-kurang-fokus Gangguan-kecemasan,6,Pria,35,Gangguan-stres-pascatrauma ADHD-Hiperaktif-dan-kurang-fokus Gangguan-kecemasan
+3,Pria,32,Skizofrenia,28,Pria,22,Skizofrenia
+2,Pria,29,Gangguan-stres-pascatrauma Gangguan-makan,13,Perempuan,33,Gangguan-stres-pascatrauma Gangguan-makan
+1,Pria,33,ADHD-Hiperaktif-dan-kurang-fokus,3,Pria,19,ADHD-Hiperaktif-dan-kurang-fokus
