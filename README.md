@@ -1,7 +1,7 @@
 # Circle Machine Learning Model
 
 ## Installation
-Clone this repository and import into **Android Studio**
+Clone this repository and import into your prefered working directory
 ```bash
 git clone https://github.com/Bangkit-Team-C22-PS134/ML-Recomendation-Model
 ```
@@ -18,18 +18,46 @@ The following packages need to be installed in python env before we run the Note
     tensorflow_recommenders
 ```
 
-### API URL:
-Point api url at `app/src/main/java/com/circle/app/di/CoreModule.kt` with the following info:
+## Dataset Info
+Our dataset acquired from various form of Google Form that we distribute in various demographic and has been pre-processed for input to our model
+
+Our Dataset consist of this column:
 ```
-val hostname = "POINT_TO_YOUR_ENDPOINT"
+Gender                                        object
+Age                                            int64
+Caregiver_Gender                              object
+Caregiver_Age                                  int64
+ADHD-Hiperaktif-dan-kurang-fokus               int32
+Depresi                                        int32
+Gangguan-kecemasan                             int32
+Gangguan-makan                                 int32
+Gangguan-stres-pascatrauma                     int32
+Skizofrenia                                    int32
+Caregiver-ADHD-Hiperaktif-dan-kurang-fokus     int32
+Caregiver-Depresi                              int32
+Caregiver-Gangguan-kecemasan                   int32
+Caregiver-Gangguan-makan                       int32
+Caregiver-Gangguan-stres-pascatrauma           int32
+Caregiver-Skizofrenia                          int32
 ```
 
-## Build variants
-Use the Android Studio *Build Variants* button to choose between **production** and **staging** flavors combined with debug and release build types
+This one row contain User data and the prefered Caregiver data
 
 
-## Generating signed APK
-From Android Studio:
-1. ***Build*** menu
-2. ***Generate Signed APK...***
-3. Fill in the keystore information *(you only need to do this once manually and then let Android Studio remember it)*
+## The Model
+Our query model will look like this , consisted of two model : <br> 
+**User Feature Model**
+ <br>
+ **Caregiveer Feature Model**
+
+![Two Tower](https://raw.githubusercontent.com/Bangkit-Team-C22-PS134/ML-Recomendation-Model/main/images/Tower%20model.png)
+
+
+## Generating Model
+To generate the model and training it , you need to run 
+TFRS_Model_V2_With_Acc.ipynb
+
+this will create User Model weights from trained model
+
+## Using the Model
+To use the query model , you need to construct the two tower retrieval model and then load the weights from previously trained weight saved in recommender_weights folder
