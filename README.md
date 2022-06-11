@@ -45,13 +45,17 @@ This one row contain User data and the prefered Caregiver data
 
 
 ## The Model
-Our query model will look like this , consisted of two model : <br> 
+Our query model will look like this , consisted of three model : <br> 
 **User Feature Model**
  <br>
  **Caregiveer Feature Model**
+ <br>
+ **NLM model**
 
 ![Two Tower](https://raw.githubusercontent.com/Bangkit-Team-C22-PS134/ML-Recomendation-Model/main/images/Tower%20model.png)
 
+for NLM model you can refer to this tfhub :
+https://tfhub.dev/google/nnlm-id-dim50/2
 
 ## Generating Model
 To generate the model and training it , you need to run 
